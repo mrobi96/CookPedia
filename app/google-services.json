@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "546564562361",
+    "firebase_url": "https://cookpedia-db971.firebaseio.com",
+    "project_id": "cookpedia-db971",
+    "storage_bucket": "cookpedia-db971.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546564562361:android:549542d394dc8e04",
+        "android_client_info": {
+          "package_name": "com.cookpedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546564562361-kj8eth44rjpt2ic0l7qvqsn55r4c7a6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cookpedia",
+            "certificate_hash": "409bfe2063cee24d16245f78490e6cc1610bcd8e"
+          }
+        },
+        {
+          "client_id": "546564562361-dtldo0507u7ejrnhd5q3u34ehaoedqf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxB9yPno4WBU_dfBfitHyGdgwA-M7OKaA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546564562361-dtldo0507u7ejrnhd5q3u34ehaoedqf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
